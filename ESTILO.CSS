@@ -1,0 +1,16 @@
+    
+p{
+    font-family:cursive  ;
+}
+h1{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: palevioletred;
+    
+}
+body{
+    background-image: url(./logo.jpg);
+    background-repeat: no-repeat;
+    background-size: 2000rem 1000rem;
+}
+
+
